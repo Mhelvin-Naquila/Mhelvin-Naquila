@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://imgflip.com/gif/9u7gmy"  />
+  <img height="300" src="100% Legitimate Certificate.jpg"  />
 </div>
 
 ###
