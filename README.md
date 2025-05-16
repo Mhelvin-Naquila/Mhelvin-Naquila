@@ -1,10 +1,11 @@
-<h1 align="left">Hi 👋! My name is Mhelvin and I'm a Human, from Earth.</h1>
+<h1 align="center">Hi 👋! My name is Mhelvin and I'm a Human, from Earth.</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhelvin-Naquila&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Statistics" height="200" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhelvin-Naquila&theme=dracula&radius=30&hide_title=true&area=true&hide_border=false" height="200" alt="activity-graph graph"  />
+  <img height = "175" src="https://github-readme-stats.vercel.app/api?username=Mhelvin-Naquila&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Statistics" height="200" alt="stats graph"  />
+  
+  <img height = "175" src="https://github-readme-activity-graph.vercel.app/graph?username=Mhelvin-Naquila&theme=dracula&radius=30&hide_title=true&area=true&hide_border=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -50,11 +51,11 @@
 ###
 
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/78942292-1aa0-4815-ae68-da62381620fc)
+  <img height="350" src="Certificate.jpg"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mhelvin-Naquila/Mhelvin-Naquila/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mhelvin-Naquila/Mhelvin-Naquila/output/snake.svg" alt="Snake animation" />
+</div>
