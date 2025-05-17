@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="Certificate.jpg"  />
+  <img height="350" src="/Images/Certificate.jpg"  />
 </div>
 
 ###
